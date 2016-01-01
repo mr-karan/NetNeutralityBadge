@@ -1,0 +1,14 @@
+{
+  "name": "insta-notfollow",
+  "description": "Add Save The Internet Badge to your Facebook Profile Pic",
+  "repository": "https://github.com/mr-karan/NetNeutralityBadge",
+  "keywords": ["python", "facebook", "save-the-internet", "free-basics","net neutrality"],
+  "env": {
+    "FACEBOOK_APP_ID": {
+      "required": true
+    },
+    "FACEBOOK_APP_SECRET": {
+      "required": true
+    }
+  }
+}
