@@ -29,7 +29,7 @@ ptyprocess==0.5
 Pygments==2.0.2
 pyzmq==15.1.0
 qtconsole==4.1.1
-requests==2.9.1
+requests==2.20.0
 requests-oauthlib==0.6.0
 simplegeneric==0.8.1
 terminado==0.5
